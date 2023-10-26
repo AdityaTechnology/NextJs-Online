@@ -1,0 +1,7 @@
+1. create nextjs Project
+
+ npx create-next-app
+
+2. run server
+
+ npm run dev
