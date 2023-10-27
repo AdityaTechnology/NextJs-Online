@@ -5,3 +5,7 @@
 2. run server
 
  npm run dev
+
+3. Extension :
+
+The ES7 React/Redux/GraphQL/React-Native Snippets Extension
